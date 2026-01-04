@@ -46,7 +46,7 @@ Double-click index.html
 The game will run in your default browser
 (Live Server is recommended for auto-refresh while editing)
 
-🎮 Controls
+Controls
 Key	Action
 ↑ Arrow Up	Move forward
 ↓ Arrow Down	Move backward
